@@ -12,6 +12,7 @@ O objetivo é construir uma aplicação de recomendação de filmes e séries ut
 - Avaliação de títulos e recomendações
 - Filtros por gênero, ano e tempo de duração
 - Lógica de recomendação baseada em critérios definidos
+- Uso de **expressões lambda** para tornar o código mais conciso e funcional
 
 ---
 
